@@ -1,0 +1,87 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="conexionDBHANA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=192.168.10.10:30015;UserName=SYSTEM;Password=Tekno2020.*</Value>
+    </Setting>
+    <Setting Name="UsuarioHANA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SYSTEM</Value>
+    </Setting>
+    <Setting Name="PasswordHANA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tekno2020.*</Value>
+    </Setting>
+    <Setting Name="ServidorHANA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.10.10:30015</Value>
+    </Setting>
+    <Setting Name="PuertoServidor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30015</Value>
+    </Setting>
+    <Setting Name="UsuarioSAP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">manager</Value>
+    </Setting>
+    <Setting Name="PasswordSAP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tekno2015.</Value>
+    </Setting>
+    <Setting Name="PuertoSL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+    <Setting Name="Meses" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="UsuarioCorreo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">testdesarrollosdescon@gmail.com</Value>
+    </Setting>
+    <Setting Name="PasswordCorreo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Descon2020</Value>
+    </Setting>
+    <Setting Name="ServidorCorreo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smtp.gmail.com</Value>
+    </Setting>
+    <Setting Name="UtilizarSSL" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CorreoTest" Type="System.String" Scope="User">
+      <Value Profile="(Default)">angelitce@gmail.com</Value>
+    </Setting>
+    <Setting Name="NumPropietario" Type="System.String" Scope="User">
+      <Value Profile="(Default)">84</Value>
+    </Setting>
+    <Setting Name="CorreoBitacora" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dpaniaguasgs@gmail.com</Value>
+    </Setting>
+    <Setting Name="RangoRojoMin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.0</Value>
+    </Setting>
+    <Setting Name="RangoRojoMax" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.2</Value>
+    </Setting>
+    <Setting Name="RangoAmarilloMin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.3</Value>
+    </Setting>
+    <Setting Name="RangoAmarilloMax" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.6</Value>
+    </Setting>
+    <Setting Name="RangoVerdeMin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.7</Value>
+    </Setting>
+    <Setting Name="RangoVerdeMax" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.9</Value>
+    </Setting>
+    <Setting Name="CuerpoCorreo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Enviamos el siguiente correo como prueba de funcionalidad del mismo, quedando atentos a sus comentarios y agradeciendo su atención</Value>
+    </Setting>
+    <Setting Name="AsuntoCorreo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Pedido TeknoStep</Value>
+    </Setting>
+    <Setting Name="SaludoCorreo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Buen dia</Value>
+    </Setting>
+    <Setting Name="Licencia" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.10.10:40000</Value>
+    </Setting>
+    <Setting Name="Empresa" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TEKNOSTEP_PROD</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
